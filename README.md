@@ -17,7 +17,6 @@ Generate insights through data visualization
 ## Tools Used
 
 Python
-
 Pandas
 
 NumPy
@@ -48,6 +47,6 @@ Data Visualization
 Insight Generation
 
 
-##Outcome
+## Outcome
 
 The project reveals important trends in hotel bookings and customer behavior, helping to better understand factors that influence reservations and cancellations through data-driven analysis.
