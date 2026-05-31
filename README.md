@@ -17,6 +17,7 @@ Generate insights through data visualization
 ## Tools Used
 
 Python
+
 Pandas
 
 NumPy
